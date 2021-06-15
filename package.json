@@ -3,12 +3,19 @@
   "displayName": "Argwrap",
   "description": "Super-quick argument wrapping and unwrapping",
   "homepage": "https://github.com/DavidMikeSimon/vscode-argwrap",
+  "repository": "github:DavidMikeSimon/vscode-argwrap",
+  "license": "MIT",
   "version": "0.1",
+  "author": "David Simon",
   "engines": {
     "vscode": "^1.57.0"
   },
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "argwrap",
+    "vscode"
   ],
   "activationEvents": [
     "onCommand:argwrap.toggle"
