@@ -5,8 +5,9 @@
   "homepage": "https://github.com/DavidMikeSimon/vscode-argwrap",
   "repository": "github:DavidMikeSimon/vscode-argwrap",
   "license": "MIT",
-  "version": "0.1",
+  "version": "0.1.0",
   "author": "David Simon",
+  "publisher": "DavidMikeSimon",
   "engines": {
     "vscode": "^1.57.0"
   },
