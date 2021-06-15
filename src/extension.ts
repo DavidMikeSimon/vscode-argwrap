@@ -6,7 +6,7 @@ const MATCH_PAIRS = [
   ['{', '}'],
 ];
 
-const MAXIMUM_GROW_ATTEMPTS = 5;
+const MAXIMUM_GROW_ATTEMPTS = 3;
 
 const growSelectionToArgsList = async (editor: vscode.TextEditor): Promise<boolean> => {
   // FIXME: i wish i could reflect on the scope analysis without actually messing with the active selection
